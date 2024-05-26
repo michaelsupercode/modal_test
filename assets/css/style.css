@@ -44,3 +44,8 @@ form {
   position: absolute;
   color: rgb(254, 252, 252);
 }
+
+h6 {
+margin: 5vh;
+text-align: center;
+}
